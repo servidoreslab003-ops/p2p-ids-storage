@@ -1,0 +1,20 @@
+{
+  "id": "hijo_template",
+  "timestamp": "2026-06-29T09:01:09.133117",
+  "emisor": "sistema",
+  "estado": "plantilla",
+  "instrucciones": {
+    "archivo": "hijo_<tu_id>.json",
+    "formato": {
+      "id": "hijo_<id_unico>",
+      "nombre": "<tu_nombre>",
+      "timestamp": "ISO timestamp",
+      "emisor": "hijo",
+      "contenido": "<SDP_answer_base64>",
+      "estado": "respuesta_enviada"
+    }
+  },
+  "mensaje": "Este es un archivo plantilla. Los hijos deben crear su propio archivo con formato hijo_<id>.json",
+  "madre_activa": "madre_dada3007",
+  "servidor": "activo"
+}
