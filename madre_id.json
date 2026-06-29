@@ -1,9 +1,8 @@
 {
-  "id": "madre_dada3007",
-  "timestamp": "2026-06-29T09:01:56.198904",
+  "id": "madre_367b8e13",
+  "timestamp": "2026-06-29T09:09:52.382208",
   "emisor": "madre",
-  "contenido": "eyJ0eXBlIjoib2ZmZXIiLCJzZHAiOiJ2PTBcclxubz0tIDUxMTkwNzY1OTg4MTUwNjIyNDcgMiBJTiBJUDQgMTI3LjAuMC4xXHJcbnM9LVxyXG50PTAgMFxyXG5hPWdyb3VwOkJVTkRMRSAwXHJcbmE9ZXh0bWFwLWFsbG93LW1peGVkXHJcbmE9bXNpZC1zZW1hbnRpYzogV01TXHJcbm09YXBwbGljYXRpb24gNTg2OSBVRFAvRFRMUy9TQ1RQIHdlYnJ0Yy1kYXRhY2hhbm5lbFxyXG5jPUlOIElQNCAxOTAuMjEyLjIxNC41MFxyXG5hPWNhbmRpZGF0ZTo2MDYxMjczMTMgMSB1ZHAgMjExMzkzNzE1MSA5YzE3YjM5Zi02MGUwLTQ3MGMtOTI5YS04ZDYxMTlkYTM4NTEubG9jYWwgNDk0ODAgdHlwIGhvc3QgZ2VuZXJhdGlvbiAwIG5ldHdvcmstY29zdCA5OTlcclxuYT1jYW5kaWRhdGU6MzYwMjk3Njk3MCAxIHVkcCAxNjc3NzI5NTM1IDE5MC4yMTIuMjE0LjUwIDU4NjkgdHlwIHNyZmx4IHJhZGRyIDAuMC4wLjAgcnBvcnQgMCBnZW5lcmF0aW9uIDAgbmV0d29yay1jb3N0IDk5OVxyXG5hPWljZS11ZnJhZzpucW1rXHJcbmE9aWNlLXB3ZDpRNXBYdk0zVWJDY242NCtQbUMyQ20veU5cclxuYT1pY2Utb3B0aW9uczp0cmlja2xlXHJcbmE9ZmluZ2VycHJpbnQ6c2hhLTI1NiBBMDozNTpCRDo4QTo3MjpEMDpFNjpDQzo4Mzo1NTpDQjo3QjpBRTpENDo0Qjo5NDo4ODo0NjpGNjpDQzo1NjpFQjowQTpERTpCQjo4ODo4NzpCQzowQjozMjpFRjo3OVxyXG5hPXNldHVwOmFjdHBhc3NcclxuYT1taWQ6MFxyXG5hPXNjdHAtcG9ydDo1MDAwXHJcbmE9bWF4LW1lc3NhZ2Utc2l6ZToyNjIxNDRcclxuIn0=",
-  "estado": "invitacion_enviada",
-  "session_id": "dada3007",
-  "archivo_plantilla": "hijo_id.json"
+  "contenido": null,
+  "estado": "esperando_invitacion",
+  "session_id": "367b8e13"
 }
