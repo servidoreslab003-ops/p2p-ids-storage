@@ -11,14 +11,14 @@
       "id": "tjjhs6y7amqzlsn2k",
       "nombre": "carlos",
       "password": "carlos1",
-      "peer_id": null,
-      "ultimo_activo": "2026-06-29T19:50:07.880Z"
+      "peer_id": "carlos-zmxbua",
+      "ultimo_activo": "2026-06-29T20:47:45.174Z"
     },
     {
       "id": "rayacff8xmqzltgs6",
       "nombre": "fram",
       "password": "fram1",
-      "peer_id": "fram-zmxx3k",
+      "peer_id": null,
       "ultimo_activo": "2026-06-29T20:46:50.783Z"
     }
   ]
