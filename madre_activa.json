@@ -1,9 +1,9 @@
 {
   "id": "madre_dada3007",
-  "timestamp": "2026-06-29T09:01:10.954264",
+  "timestamp": "2026-06-29T09:01:57.862080",
   "emisor": "madre",
-  "estado": "activa",
-  "mensaje": "Servidor Madre activo - Listo para conexiones",
+  "estado": "invitacion_disponible",
+  "mensaje": "Invitación disponible para nuevos hijos",
   "session_id": "dada3007",
   "archivos_disponibles": [
     "madre_id.json",
