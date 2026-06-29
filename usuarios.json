@@ -13,6 +13,13 @@
       "password": "carlos1",
       "peer_id": "carlos-mqzlsnqs",
       "ultimo_activo": "2026-06-29T19:21:16.978Z"
+    },
+    {
+      "id": "rayacff8xmqzltgs6",
+      "nombre": "fram",
+      "password": "fram1",
+      "peer_id": null,
+      "ultimo_activo": "2026-06-29T19:21:53.718Z"
     }
   ]
 }
