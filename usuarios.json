@@ -5,6 +5,12 @@
       "nombre": "cesar",
       "timestamp": "2026-06-29T10:19:49.711697",
       "estado": "online"
+    },
+    {
+      "id": "user_qwzb09_1782749994818",
+      "nombre": "carlos",
+      "timestamp": "2026-06-29T10:20:08.421618",
+      "estado": "online"
     }
   ]
 }
