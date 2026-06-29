@@ -1,3 +1,10 @@
 {
-  "usuarios": []
+  "usuarios": [
+    {
+      "id": "user_mej14x_1782752648700",
+      "nombre": "cesar",
+      "timestamp": "2026-06-29T17:04:08.782Z",
+      "estado": "online"
+    }
+  ]
 }
