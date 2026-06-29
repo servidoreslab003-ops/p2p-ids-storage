@@ -19,6 +19,13 @@
       "respuesta_n": null,
       "ultimo_activo": "2026-06-29T19:06:11.193Z",
       "peer_id": "carlos-mqzl98po"
+    },
+    {
+      "id": "ebrqvqb2xmqzlb0zs",
+      "nombre": "fram",
+      "password": "fram1",
+      "peer_id": null,
+      "ultimo_activo": "2026-06-29T19:07:33.448Z"
     }
   ]
 }
