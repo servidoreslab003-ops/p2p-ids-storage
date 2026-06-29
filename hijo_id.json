@@ -1,0 +1,9 @@
+{
+  "id": null,
+  "nombre": null,
+  "timestamp": null,
+  "emisor": null,
+  "contenido": null,
+  "estado": "vacio",
+  "mensaje": "Archivo vacío - Esperando respuesta del hijo"
+}
