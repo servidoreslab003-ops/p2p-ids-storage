@@ -35,6 +35,12 @@
       "nombre": "cesar",
       "timestamp": "2026-06-29T10:16:27.970740",
       "estado": "online"
+    },
+    {
+      "id": "user_svo2vp_1782749791209",
+      "nombre": "carlos",
+      "timestamp": "2026-06-29T10:16:37.769004",
+      "estado": "online"
     }
   ]
 }
