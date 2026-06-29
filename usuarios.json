@@ -1,3 +1,13 @@
 {
-  "usuarios": []
+  "usuarios": [
+    {
+      "id": "iqer3vf58mqzk5z1g",
+      "nombre": "cesar",
+      "password": "cesar1",
+      "oferta": null,
+      "llamado": null,
+      "respuesta_n": null,
+      "ultimo_activo": "2026-06-29T18:35:38.020Z"
+    }
+  ]
 }
