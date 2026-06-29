@@ -1,7 +1,8 @@
 {
   "id": "madre_1f65681f",
-  "timestamp": "2026-06-29T08:58:04.039257",
+  "timestamp": "2026-06-29T08:58:07.542768",
   "emisor": "madre",
-  "estado": "iniciando",
-  "mensaje": "Servidor Madre inicializando..."
+  "estado": "activa",
+  "mensaje": "Servidor Madre activo - Esperando conexiones",
+  "session_id": "1f65681f"
 }
