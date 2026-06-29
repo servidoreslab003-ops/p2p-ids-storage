@@ -1,7 +1,9 @@
 {
   "id": "madre_1f65681f",
-  "timestamp": "2026-06-29T08:58:02.340024",
+  "timestamp": "2026-06-29T08:58:05.807449",
   "emisor": "madre",
   "contenido": null,
-  "estado": "esperando_invitacion"
+  "estado": "inicializando",
+  "session_id": "1f65681f",
+  "mensaje": "Servidor Madre inicializado - Esperando generar invitación"
 }
