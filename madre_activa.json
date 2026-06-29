@@ -1,7 +1,12 @@
 {
-  "id": "madre_1f65681f",
-  "timestamp": "2026-06-29T08:58:54.251051",
+  "id": "madre_dada3007",
+  "timestamp": "2026-06-29T09:01:10.954264",
   "emisor": "madre",
   "estado": "activa",
-  "mensaje": "Servidor Madre activo - Listo para conexiones"
+  "mensaje": "Servidor Madre activo - Listo para conexiones",
+  "session_id": "dada3007",
+  "archivos_disponibles": [
+    "madre_id.json",
+    "hijo_id.json"
+  ]
 }
