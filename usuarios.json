@@ -1,3 +1,11 @@
 {
-  "usuarios": []
+  "usuarios": [
+    {
+      "id": "0ow6wuts1mqzlsaus",
+      "nombre": "cesar",
+      "password": "cesar1",
+      "peer_id": null,
+      "ultimo_activo": "2026-06-29T19:20:59.380Z"
+    }
+  ]
 }
